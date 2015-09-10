@@ -1,5 +1,5 @@
 #Rextro
-Simple api consumer in golang (go) , make api calls easily using this library.
+[Rextro](https://github.com/varver/rextro) is a simple api consumer in golang (go) , make api calls easily using this library.
 Easily read json response values like : **response.success** if response looks like : 
 **{"response" : {"success" : true, "error" : "none" , "code" : "200"}}**
 
