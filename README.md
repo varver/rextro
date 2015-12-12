@@ -19,7 +19,7 @@ https://www.mashape.com/imagevision/nudity-recognition-nudity-filter-for-images
 **The curl request looks like this**
 ```
 curl -X POST --include 'https://nuditysearch.p.mashape.com/nuditySearch/image' \
-  -H 'X-Mashape-Key: ad40Z3nH9NmshlvepLaKhd0oDfTnp1GrSPNjsn7C8MsJAum8J6' \
+  -H 'X-Mashape-Key: ad40Z3nH9NmdfgdfgfdgdfgfdgdfgfdgfdgfdgdfgfgAum8J6' \
   -H 'Content-Type: application/x-www-form-urlencoded' \
   -H 'Accept: application/json' \
   -d 'objecturl=http://i.imgur.com/4hGni1I.jpg' \
